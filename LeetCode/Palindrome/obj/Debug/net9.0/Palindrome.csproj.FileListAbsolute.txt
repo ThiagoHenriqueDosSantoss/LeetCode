@@ -1,0 +1,14 @@
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\bin\Debug\net9.0\Palindrome.exe
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\bin\Debug\net9.0\Palindrome.deps.json
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\bin\Debug\net9.0\Palindrome.runtimeconfig.json
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\bin\Debug\net9.0\Palindrome.dll
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\bin\Debug\net9.0\Palindrome.pdb
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.AssemblyInfo.cs
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.dll
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\refint\Palindrome.dll
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.pdb
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\Palindrome.genruntimeconfig.cache
+C:\Users\thiago.santos\Desktop\leetcode\1. Two Sum\Palindrome\obj\Debug\net9.0\ref\Palindrome.dll
